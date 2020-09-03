@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/clientsportal/static/css/main.e0f56a58.chunk.css",
+    "main.js": "/clientsportal/static/js/main.5966b1bb.chunk.js",
+    "main.js.map": "/clientsportal/static/js/main.5966b1bb.chunk.js.map",
+    "runtime-main.js": "/clientsportal/static/js/runtime-main.a19b52ac.js",
+    "runtime-main.js.map": "/clientsportal/static/js/runtime-main.a19b52ac.js.map",
+    "static/css/2.bc3f430c.chunk.css": "/clientsportal/static/css/2.bc3f430c.chunk.css",
+    "static/js/2.f959e2c9.chunk.js": "/clientsportal/static/js/2.f959e2c9.chunk.js",
+    "static/js/2.f959e2c9.chunk.js.map": "/clientsportal/static/js/2.f959e2c9.chunk.js.map",
+    "index.html": "/clientsportal/index.html",
+    "precache-manifest.324240f7135854c34691a01042aec032.js": "/clientsportal/precache-manifest.324240f7135854c34691a01042aec032.js",
+    "service-worker.js": "/clientsportal/service-worker.js",
+    "static/css/2.bc3f430c.chunk.css.map": "/clientsportal/static/css/2.bc3f430c.chunk.css.map",
+    "static/css/main.e0f56a58.chunk.css.map": "/clientsportal/static/css/main.e0f56a58.chunk.css.map",
+    "static/js/2.f959e2c9.chunk.js.LICENSE.txt": "/clientsportal/static/js/2.f959e2c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a19b52ac.js",
+    "static/css/2.bc3f430c.chunk.css",
+    "static/js/2.f959e2c9.chunk.js",
+    "static/css/main.e0f56a58.chunk.css",
+    "static/js/main.5966b1bb.chunk.js"
+  ]
+}
